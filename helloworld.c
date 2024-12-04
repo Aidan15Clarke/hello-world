@@ -2,7 +2,6 @@
 
 int main(void)
 {
-  printf("Hello, World!\n");
-  printf("This is a test change!\n");
+  printf("My original file already said 'Hello World!', so I'm changing it to this instead!\n");
   return 0;
 }
